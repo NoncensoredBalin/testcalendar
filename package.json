@@ -1,0 +1,16 @@
+{
+  "name": "vue-calendar",
+  "version": "1.0.0",
+  "description": "Простой календарь на Vue.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
+
